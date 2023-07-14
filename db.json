@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "user1",
+      "password": "pass1",
+      "dob": "2002-02-12",
+      "gender": "male",
+      "phone": "9123456776",
+      "email": "qwjlin@123",
+      "id": 2
+    }
+  ]
+}
